@@ -33,11 +33,6 @@
 ![Docker](https://img.shields.io/badge/-Docker-2496ED?style=flat&logo=docker&logoColor=white)
 ![AWS](https://img.shields.io/badge/-AWS-232F3E?style=flat&logo=amazon-aws&logoColor=white)
 
-### 📊 GitHub Stats
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=anshuwastaken&show_icons=true&theme=tokyonight" alt="Anshu's GitHub stats" width="48%" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=anshuwastaken&theme=tokyonight" alt="GitHub Streak" width="48%" />
-</p>
 
 ### 🏆 Featured Projects
 - **[Portfolio Website](https://github.com/anshuwastaken/portfolio)** – Personal site built with HTML, CSS, and JavaScript. Showcases my work and blog.
