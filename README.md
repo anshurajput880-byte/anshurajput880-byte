@@ -35,9 +35,9 @@
 
 
 ### 🏆 Featured Projects
-- **[Portfolio Website](https://github.com/anshuwastaken/portfolio)** – Personal site built with HTML, CSS, and JavaScript. Showcases my work and blog.
+- **[Portfolio Website](https://anshuabout.netlify.app)** – Personal site built with HTML, CSS, and JavaScript. Showcases my work and blog.
 - **[Django Blog Platform](https://github.com/anshuwastaken/django-blog)** – A fully functional blogging platform with user authentication, comments, and Markdown support.
-- **[Weather CLI Tool](https://github.com/anshuwastaken/weather-cli)** – Python command-line tool that fetches real-time weather data using OpenWeatherMap API.
+- **[Weather CLI Tool](https://github.com/anshurajput880-byte/weather-cli)** – Python command-line tool that fetches real-time weather data using OpenWeatherMap API.
 
 ### 📈 Weekly Development Breakdown
 <!--START_SECTION:waka-->
